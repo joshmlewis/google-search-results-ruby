@@ -7,6 +7,7 @@ BING_ENGINE = 'bing'
 YAHOO_ENGINE = 'yahoo'
 YANDEX_ENGINE = 'yandex'
 EBAY_ENGINE = 'ebay'
+YOUTUBE_ENGINE = 'youtube'
 
 
 # Generic HTTP client for serpapi.com
